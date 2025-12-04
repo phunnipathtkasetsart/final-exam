@@ -26,6 +26,11 @@ This is my final exam in the course Computer Programming-I about design and impl
 - Has method to assgin driver object ( driver.name )
 - Includes all data : _Customer_ , _Item_ , _Status_
 
+## Sample Output
+<img width="524" height="534" alt="final" src="https://github.com/user-attachments/assets/a046577a-8422-4001-be62-9bc0abbd5998" />
+Including: 
+- 3 persons
+- 2 orders
 
 ##  Running the file
 
