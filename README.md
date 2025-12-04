@@ -27,7 +27,7 @@ This is my final exam in the course Computer Programming-I about design and impl
 - Includes all data : _Customer_ , _Item_ , _Status_
 
 
-##  Running the Game
+##  Running the file
 
 To run the order system, execute `main.py`:
 
