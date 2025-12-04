@@ -34,6 +34,8 @@ Including:
 - 3 persons
 - 2 orders
 
+*_*The project has 100% implemented carefully**_
+
 ##  Running the file
 
 To run the order system, execute `oop.py`:
